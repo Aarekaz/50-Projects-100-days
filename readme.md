@@ -1,1 +1,1 @@
-#### A Personal challange to complete 50 python projects in 100 days.
+#### A collection of small mini projects that I have done to learn new things and to practice my skills.
